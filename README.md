@@ -8,6 +8,8 @@
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=KyleChr00194607)](https://github.com/gazf/github-readme-twitter)
 
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/13699926/kc101010)
+
 <u><b>I've worked with;</u></b>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
