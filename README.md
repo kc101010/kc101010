@@ -6,10 +6,6 @@
 
 📢 You can contact me on [Linkedin](https://www.linkedin.com/in/kyle-christie-02aa79193/) or via [E-mail](mailto:kctranslationservices@gmx.com)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=KyleChr00194607)](https://github.com/gazf/github-readme-twitter)
-
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/13699926/kc101010))
-
 <u><b>I've worked with;</u></b>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -35,6 +31,14 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) 
+
+
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=KyleChr00194607)](https://github.com/gazf/github-readme-twitter)
+
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/13699926/kc101010))
+
+
 
 
 
