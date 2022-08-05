@@ -1,5 +1,7 @@
 ### Hello! I'm Kyle! 👋
 
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/13699926/kc101010))
+
 🦀 I'm currently learning Rust and Device Drivers (specifically Linux). 
 
 🤖 I'd like to work on low-level systems/software or possibly embedded systems using C/C++/Rust. 
@@ -32,11 +34,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) 
 
-
-
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=KyleChr00194607)](https://github.com/gazf/github-readme-twitter)
 
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/13699926/kc101010))
+
 
 
 
