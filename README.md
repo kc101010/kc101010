@@ -4,7 +4,9 @@
 
 🦀 I'm currently learning Rust and Device Drivers (specifically Linux). 
 
-🤖 I'd like to work on low-level systems/software or possibly embedded systems using C/C++/Rust. 
+🤖 I'd like to work on low-level systems/software or possibly embedded systems using C/C++/Rust.
+
+🏗️ At some point, I'd also like to get involved with Open Source Software and contribute where I can.
 
 📢 You can contact me on [Linkedin](https://www.linkedin.com/in/kyle-christie-02aa79193/) or via [E-mail](mailto:kctranslationservices@gmx.com)
 
