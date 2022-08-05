@@ -6,6 +6,8 @@
 
 📢 You can contact me on [Linkedin](https://www.linkedin.com/in/kyle-christie-02aa79193/) or via [E-mail](mailto:kctranslationservices@gmx.com)
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=KyleChr00194607)](https://github.com/gazf/github-readme-twitter)
+
 <u><b>I've worked with;</u></b>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
