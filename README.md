@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! I'm Kyle! 👋
+
+🦀 I'm currently learning Rust and Device Drivers (specifically Linux). 
+
+🤖 I'd like to work on low-level systems/software or possible embedded systems using C/C++/Rust. I hope my repos represent this!
+
+📢 You can contact me on [Linkedin](https://www.linkedin.com/in/kyle-christie-02aa79193/) or via [E-mail](mailto:kctranslationservices@gmx.com)
 
 <!--
 **kc101010/kc101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
