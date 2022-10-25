@@ -2,11 +2,11 @@
 
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/13699926/kc101010))
 
-🦀 I'm currently learning Rust and Device Drivers (specifically Linux). 
+🦀 I'm currently working on Rust and Device Drivers (specifically Linux) for my Honours project.  
 
-🤖 I'd like to work on low-level systems/software or possibly embedded systems using C/C++/Rust. I've got a few projects on here that reflect this.
+🤖 My career goal is to work on low-level systems/software or possibly embedded systems using C/C++/Rust. I've got a few projects on here that showcase relevant skills. 
 
-🏗️ At some point, I'd also like to get involved with Open Source Software and contribute where I can.
+🏗️ I'm also considering getting involved with Open Source Software to work on projects that interest me and where I can continue to develop my skills.
 
 📢 You can contact me on [Linkedin](https://www.linkedin.com/in/kyle-christie-02aa79193/) or via [E-mail](mailto:kctranslationservices@gmx.com)
 
