@@ -1,6 +1,6 @@
 ### Hello! I'm Kyle! 👋
 
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/13699926/kc101010))
+[![HamiltonPharmD StackOverflow]](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/13699926/kc101010))
 
 🦀 I'm currently working on Rust and Device Drivers (specifically Linux) for my Honours project.  
 
