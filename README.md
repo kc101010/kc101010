@@ -29,6 +29,3 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kc_STEM88)](https://github.com/gazf/github-readme-twitter)
