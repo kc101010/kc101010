@@ -1,10 +1,10 @@
 ### Hello! I'm Kyle! 👋
 
-🦀 I'm currently working on Rust and Device Drivers (specifically Linux) for my Honours project.  
+🦀 I have most recently worked with Rust for Linux Device Drivers for my Honours project. I am now searching for a graduate/junior position.
 
-🤖 My career goal is to work on low-level systems/software or possibly embedded systems using C/C++/Rust. I've got a few projects on here that showcase relevant skills. 
+🧰 Currently learning more about embedded systems and related concepts.
 
-🏗️ I'm also considering getting involved with Open Source Software to work on projects that interest me and where I can continue to develop my skills.
+🤖 My career goal is to work on low-level systems/software or embedded systems using C/C++/Rust. 
 
 📢 You can contact me on [Linkedin](https://www.linkedin.com/in/kyle-christie-02aa79193/) or via [E-mail](mailto:kctranslationservices@gmx.com)
 
@@ -32,24 +32,3 @@
 
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kc_STEM88)](https://github.com/gazf/github-readme-twitter)
-
-
-
-
-
-
-
-<!--
-**kc101010/kc101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
