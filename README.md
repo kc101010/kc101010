@@ -2,7 +2,7 @@
 
 🦀 I have most recently worked with Rust for Linux Device Drivers for my Honours project. 
 
-🧰 Currently learning more about embedded systems and related concept - I have been employing this in my latest work. 
+🧰 Currently learning more about embedded systems and related concepts - I have been employing this in my latest work. 
 
 🤖 Highly interested in low-level systems/software or embedded systems using C/C++/Rust. 
 
