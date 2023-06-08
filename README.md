@@ -1,6 +1,6 @@
 ### Hello! I'm Kyle! 👋
 
-🦀 I have most recently worked with Rust for Linux Device Drivers for my Honours project. 
+🦀 I have most recently worked with Rust for Linux Device Drivers for my Honours project.(Graded First class!)
 
 🧰 Currently learning more about embedded systems and related concepts - I have been employing this in my latest work. 
 
