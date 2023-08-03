@@ -1,18 +1,14 @@
 ### Hello! I'm Kyle! 👋
 
-🦀 I have most recently worked with Rust for Linux Device Drivers for my Honours project.(Graded First class!)
+🦀 Software Engineer. Honours thesis focused on using Rust to write Linux device drivers.
 
-🧰 Currently learning more about embedded systems and related concepts - I have been employing this in my latest work. 
-
-🤖 Highly interested in low-level systems/software or embedded systems using C/C++/Rust. 
-
-📢 You can contact me on [Linkedin](https://www.linkedin.com/in/kyle-christie-02aa79193/) or via [E-mail](mailto:kctranslationservices@gmx.com)
+🤖 Experienced in Device Driver, Embedded, Desktop and Secure Software between C++, C and Rust.
 
 <u><b>My main skills and tools;</u></b>
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
