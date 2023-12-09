@@ -2,7 +2,7 @@
 
 🦀 Software Engineer. Honours thesis focused on using Rust to write Linux device drivers.
 
-🤖 Experienced in Device Driver, Embedded, Desktop and Secure Software between C++, C and Rust.
+🤖 Mostly experienced in Device Drivers and Embedded systems. With some work in Desktop and Secure Software.
 
 <u><b>My main skills and tools;</u></b>
 
